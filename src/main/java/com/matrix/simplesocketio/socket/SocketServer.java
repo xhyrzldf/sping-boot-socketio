@@ -7,10 +7,9 @@ import org.springframework.stereotype.Component;
 
 /**
  * socketio 服务端
- * netty-socketio 实现的 socke.io 服务端
+ * netty-socketio 实现的 socket.io 服务端
  *
- * @author pengdh
- * @date: 2017-09-03 1:13
+ * @author : M@tr!x [xhyrzldf@gmail.com]
  */
 @Slf4j
 @Component

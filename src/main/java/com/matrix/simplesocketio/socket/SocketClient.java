@@ -9,9 +9,9 @@ import org.springframework.stereotype.Component;
 import java.net.URISyntaxException;
 
 /**
- * socketio 客户端实现
+ * socket io 客户端实现
  *
- * @author pengdh
+ * @author : M@tr!x [xhyrzldf@gmail.com]
  */
 @SuppressWarnings("ALL")
 @Slf4j
