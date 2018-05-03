@@ -1,0 +1,8 @@
+GET http://localhost:8080/server/start
+Accepts: application/json
+
+###
+GET http://localhost:8080/client/start
+Accepts: application/json
+
+###
